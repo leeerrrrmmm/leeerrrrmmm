@@ -1,16 +1,31 @@
-## Hi there 👋
+👋 Hello and Welcome!
+I'm a passionate Flutter & Dart developer dedicated to crafting sleek, modern, and cross-platform mobile applications. I focus on building clean user interfaces and scalable architectures that make apps both beautiful and robust.
 
-<!--
-**leeerrrrmmm/leeerrrrmmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Featured Projects
+Here are some of my main projects showcasing my skills and experience:
 
-Here are some ideas to get you started:
+Kirp — A social network-like app built with a Laravel backend integration, designed for seamless user interaction and connectivity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+TaskMaster — An advanced todo app featuring task creation, expense tracking, and leave management. Tasks can be viewed both by their creators and by the assigned users. The app also includes chat functionality with integrated Firebase and Supabase services for real-time data and authentication.
+
+edTech — An educational platform app example, designed for learning and easily extensible with many new and exciting features.
+
+MindHorizon — A meditation app focused on mindfulness and relaxation, built to help users reduce stress and improve focus through guided sessions.
+
+🛠️ Skills & Technologies
+Languages: Dart
+
+Frameworks: Flutter, Firebase, Supabase, Laravel
+
+Tools: Git, GitHub, CI/CD pipelines
+
+📫 Let’s Connect
+Feel free to explore my work and reach out!
+
+Portfolio
+
+Telegram
+
+Instagram
+
+Thanks for stopping by!
