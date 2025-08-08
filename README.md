@@ -24,8 +24,8 @@ Feel free to explore my work and reach out!
 
 [Portfolio](https://leeerrrrmmm.github.io/portfolio/)
 
-Telegram
+[Telegram](https://t.me/leeerrmmm)
 
-Instagram
+[Instagram](https://www.instagram.com/leeerrrrmmmm)
 
 Thanks for stopping by!
