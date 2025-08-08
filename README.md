@@ -22,7 +22,7 @@ Tools: Git, GitHub, CI/CD pipelines
 📫 Let’s Connect
 Feel free to explore my work and reach out!
 
-Portfolio
+(Portfolio)[https://leeerrrrmmm.github.io/portfolio/]
 
 Telegram
 
